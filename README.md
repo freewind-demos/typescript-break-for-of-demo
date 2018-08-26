@@ -1,5 +1,7 @@
-TypeScript Base Demo
-====================
+TypeScript Break For Of Demo
+============================
+
+Break `for of` loop
 
 ```
 npm install
